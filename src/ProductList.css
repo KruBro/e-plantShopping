@@ -169,6 +169,7 @@ body {
 .cart {
     color: white;
     display: flex;
+    /*position: fixed;*/
 }
 
 .cart_quantity_count {
