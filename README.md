@@ -2,8 +2,6 @@
 ```markdown
 # 🌱 Paradise Nursery - Plant E-Commerce React App
 
-![Project Screenshot](/public/screenshot.png) <!-- Add your screenshot path -->
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://your-deployed-url.com) <!-- Add your deployed URL -->
 
 A responsive React-based shopping application for houseplants with Redux-powered cart management, featuring three interactive pages.
 
